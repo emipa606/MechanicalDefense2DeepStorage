@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>bc320b19-9054-4d85-a2da-7ff20e8f31f0</ID>
+  <ModName>Mechanical Defense 2 - Deep Storage (Continued)</ModName>
+  <Version>1.0.2.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>emipa606</Owner>
+    <Project>MechanicalDefence2DeepStorage</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
+
+
+
+
