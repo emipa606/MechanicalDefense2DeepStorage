@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MD2_deepstorage_research_DSU_i.label>Deep Storage Unit Mk.I</MD2_deepstorage_research_DSU_i.label>
+  <MD2_deepstorage_research_DSU_i.description>Unlocks researching Deep Storage Units, which are capable of holding large amounts of an item.
+		(10x)</MD2_deepstorage_research_DSU_i.description>
+
+  <MD2_deepstorage_research_DSU_ii.label>Deep Storage Unit Mk.II</MD2_deepstorage_research_DSU_ii.label>
+  <MD2_deepstorage_research_DSU_ii.description>Unlocks researching Deep Storage Units, which are capable of holding large amounts of an item.
+		(20x)</MD2_deepstorage_research_DSU_ii.description>
+
+  <MD2_deepstorage_research_DSU_iii.label>Deep Storage Unit Mk.III</MD2_deepstorage_research_DSU_iii.label>
+  <MD2_deepstorage_research_DSU_iii.description>Unlocks researching Deep Storage Units, which are capable of holding large amounts of an item.
+		(30x)</MD2_deepstorage_research_DSU_iii.description>
+
+
+</LanguageData>

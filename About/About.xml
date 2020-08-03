@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mechanical Defense 2 - Deep Storage (Continued)</name>
-    <packageId>Mlie.MechanicalDefense2DeepStorage</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/MechanicalDefense2DeepStorage</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies>
-		<li>
-			<packageId>Skullywag.ExtendedStorage</packageId>
-            <displayName>Extended Storage</displayName>
-            <steamWorkshopUrl>steam://url/CommunityFilePage/731732064</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>Skullywag.ExtendedStorage</li>
-	</loadAfter>
-	<description>Update of mipens mod for RimWorld 1.1
+  <packageId>Mlie.MechanicalDefense2DeepStorage</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/MechanicalDefense2DeepStorage</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Skullywag.ExtendedStorage</packageId>
+      <displayName>Extended Storage</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/731732064</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Skullywag.ExtendedStorage</li>
+  </loadAfter>
+  <description>Update of mipens mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255682921
 
 I removed the dependency to the old "Base"-mod since it could just be replaced with a patch-operation instead.
@@ -35,7 +36,7 @@ https://github.com/emipa606/MechanicalDefense2DeepStorage
 	
 	- deep storage
 	
-	>>Deep Storage Unit - A storage unit that is used to store a large quantity of a type of item.
+	&gt;&gt;Deep Storage Unit - A storage unit that is used to store a large quantity of a type of item.
 	
 	update by sulusdacor
 	
