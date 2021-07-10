@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MD2_deepstorage_DSU_mk_i.label>Deep Storage Unit Mk.I</MD2_deepstorage_DSU_mk_i.label>
   <MD2_deepstorage_DSU_mk_i.description>A contained unit for storing large amounts of items.</MD2_deepstorage_DSU_mk_i.description>
-
   <MD2_deepstorage_DSU_mk_ii.label>Deep Storage Unit Mk.II</MD2_deepstorage_DSU_mk_ii.label>
   <MD2_deepstorage_DSU_mk_ii.description>A contained unit for storing large amounts of items.</MD2_deepstorage_DSU_mk_ii.description>
-
   <MD2_deepstorage_DSU_mk_iii.label>Deep Storage Unit Mk.III</MD2_deepstorage_DSU_mk_iii.label>
   <MD2_deepstorage_DSU_mk_iii.description>A contained unit for storing large amounts of items.</MD2_deepstorage_DSU_mk_iii.description>
-
-
 </LanguageData>

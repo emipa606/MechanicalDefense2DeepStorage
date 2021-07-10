@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mechanical Defense 2 - Deep Storage (Continued)</name>
   <packageId>Mlie.MechanicalDefense2DeepStorage</packageId>
@@ -18,27 +18,62 @@
   <loadAfter>
     <li>Skullywag.ExtendedStorage</li>
   </loadAfter>
-  <description>Update of mipens mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of mipens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255682921
 
-I removed the dependency to the old "Base"-mod since it could just be replaced with a patch-operation instead.
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/MechanicalDefence2DeepStorage][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/MechanicalDefense2DeepStorage
-	
---- Original Description ---
-"Mechanical Defense 2" (MD2)
-	
-	requires extended storage mod now!
-	
-	- deep storage
-	
-	&gt;&gt;Deep Storage Unit - A storage unit that is used to store a large quantity of a type of item.
-	
-	update by sulusdacor
-	
-	Download links for Dropbox or Steamworkshop link can be found in the ludeon forum thread linked above.</description>
+not doing anymore updates for any rimworld mods
+
+[b]I did not create this mod!
+
+This is just an update of the [url=https://ludeon.com/forums/index.php?topic=7380.0]original Mod[/url]. the description and all content is taken from there.[/b]
+
+[h1]&quot;Mechanical Defense 2 - deep storage&quot; (MD2)[/h1]
+
+This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you&apos;ll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don&apos;t. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
+
+[b]&gt;&gt;Deep Storage Unit[/b] - A storage unit that is used to store a large quantity of a type of item.
+
+[h1]Details:[/h1]
+
+requires MD2 - base + extended storage mod
+
+- adds deep storage units mk1,2,3 (holds:1000,1500,2250 units)
+- adds 3 research projects for the units
+
+(uses the texture from the modvariety pack)
+
+storage units are 1x2 buildings. they have only one interaction spot! so if multiple pawns use the ressouce you are using them for they might slow down your colony. but they use no power, so an option for medieval runs.
+
+[i]Ludeon forum topic:[/i]
+https://ludeon.com/forums/index.php?topic=38010
+
+[b]Dropbox:[/b] https://www.dropbox.com/s/zalpz6yzm0jqhqy/MD2_deepstorage_b18.7z?dl=0
+
+Dropbox link to folder with old mods in forum topic for the mod.
+Changelog in forumtopic or about folder of mod.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
