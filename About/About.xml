@@ -7,16 +7,17 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
-      <packageId>Skullywag.ExtendedStorage</packageId>
+      <packageId>Mlie.ExtendedStorage</packageId>
       <displayName>Extended Storage</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/731732064</steamWorkshopUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2566120724</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
-    <li>Skullywag.ExtendedStorage</li>
+    <li>Mlie.ExtendedStorage</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of mipens mod
@@ -39,11 +40,11 @@ not doing anymore updates for any rimworld mods
 
 This is just an update of the [url=https://ludeon.com/forums/index.php?topic=7380.0]original Mod[/url]. the description and all content is taken from there.[/b]
 
-[h1]&quot;Mechanical Defense 2 - deep storage&quot; (MD2)[/h1]
+[h1]"Mechanical Defense 2 - deep storage" (MD2)[/h1]
 
-This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you&apos;ll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don&apos;t. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
+This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you'll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don't. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
 
-[b]&gt;&gt;Deep Storage Unit[/b] - A storage unit that is used to store a large quantity of a type of item.
+[b]Deep Storage Unit[/b] - A storage unit that is used to store a large quantity of a type of item.
 
 [h1]Details:[/h1]
 
@@ -74,6 +75,7 @@ Changelog in forumtopic or about folder of mod.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
+
+
 </description>
 </ModMetaData>
-

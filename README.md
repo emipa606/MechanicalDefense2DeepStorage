@@ -26,12 +26,12 @@ not doing anymore updates for any rimworld mods
 
 This is just an update of the https://ludeon.com/forums/index.php?topic=7380.0]original Mod. the description and all content is taken from there.**
 
-# &quot;Mechanical Defense 2 - deep storage&quot; (MD2)
+# "Mechanical Defense 2 - deep storage" (MD2)
 
 
-This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you&apos;ll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don&apos;t. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
+This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you'll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don't. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
 
-**&gt;&gt;Deep Storage Unit** - A storage unit that is used to store a large quantity of a type of item.
+**Deep Storage Unit** - A storage unit that is used to store a large quantity of a type of item.
 
 # Details:
 
@@ -64,6 +64,8 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
+
 
 
 
