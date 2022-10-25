@@ -1,23 +1,14 @@
-# MechanicalDefence2DeepStorage
+# MechanicalDefense2DeepStorage
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of mipens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255682921
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/MechanicalDefence2DeepStorage]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods
@@ -54,7 +45,7 @@ Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -64,7 +55,6 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
-
 
 
 
