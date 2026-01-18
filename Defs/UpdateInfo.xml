@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="MechanicalDefense2DeepStorage_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2016339042</linkUrl>
+		<banner>UpdateInfo/MechanicalDefense2DeepStorage</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="MechanicalDefense2DeepStorage_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>MechanicalDefense2DeepStorage_1_5_0</defName>
+		<date>2026/1/18</date>
+		<content>This mod will not be further updated.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

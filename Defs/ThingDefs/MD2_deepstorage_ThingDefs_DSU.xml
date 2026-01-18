@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="ExtendedStorage_FurnitureBase" Name="MD2_DSU_Base" Abstract="True">
     <description>A contained unit for storing large amounts of items.</description>
